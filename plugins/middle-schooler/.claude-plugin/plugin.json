@@ -1,0 +1,30 @@
+{
+    "name": "middle-schooler",
+    "description": "Education and tutoring toolkit for middle school students. Features specialized agents for academic competition preparation, study material generation, and adaptive practice systems.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Jerry Yang",
+        "email": "jerry@chenyang.us"
+    },
+    "repository": "https://github.com/islanderman/claude-code-marketplace",
+    "homepage": "https://github.com/islanderman/claude-code-marketplace/tree/main/plugins/middle-schooler",
+    "keywords": [
+        "education",
+        "tutoring",
+        "middle-school",
+        "spelling-bee",
+        "science-bowl",
+        "NSB",
+        "study-guide",
+        "practice",
+        "etymology",
+        "linguistics",
+        "competition-prep",
+        "life-science",
+        "physical-science",
+        "earth-space-science"
+    ],
+    "skills": [
+        "./skills/science-bowl-question-prep.md"
+    ]
+}

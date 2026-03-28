@@ -1,0 +1,41 @@
+{
+    "name": "finance-pack",
+    "description": "Institutional-grade quantitative finance toolkit for portfolio analysis, risk management, alpha signal research, and systematic trading strategy design. Powered by methodologies from Goldman Sachs, Renaissance Technologies, Two Sigma, Citadel, Jane Street, AQR, D.E. Shaw, Bridgewater, Bloomberg, Virtu Financial, Point72, Man Group, Millennium, and Dimensional Fund Advisors.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Jerry Yang",
+        "email": "jerry@chenyang.us"
+    },
+    "repository": "https://github.com/islanderman/claude-code-marketplace",
+    "homepage": "https://github.com/islanderman/claude-code-marketplace/tree/main/plugins/finance-pack",
+    "keywords": [
+        "finance",
+        "quantitative",
+        "portfolio-analysis",
+        "risk-management",
+        "trading",
+        "alpha-signals",
+        "factor-models",
+        "backtesting",
+        "market-making",
+        "execution-algorithms",
+        "macro-strategy",
+        "statistical-arbitrage",
+        "machine-learning",
+        "compliance",
+        "investment-research"
+    ],
+    "skills": [
+        "./skills/adversarial-business-model.md",
+        "./skills/bull-bear-steelman.md",
+        "./skills/catalyst-timeline-builder.md",
+        "./skills/competitive-moat-audit.md",
+        "./skills/earnings-call-translator.md",
+        "./skills/filing-decoder.md",
+        "./skills/investment-thesis-one-pager.md",
+        "./skills/portfolio-overlap-detector.md",
+        "./skills/sector-theme-mapper.md",
+        "./skills/valuation-sanity-check.md",
+        "./skills/portfolio-deep-analysis.md"
+    ]
+}
